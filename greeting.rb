@@ -1,6 +1,6 @@
-File: greeting.rb
+File: `greeting.rb`
 
-ruby
+```ruby
 def greeting
   puts "Hello World"
 end
@@ -10,5 +10,4 @@ greeting
 greeting
 greeting
 greeting
-
-
+```
